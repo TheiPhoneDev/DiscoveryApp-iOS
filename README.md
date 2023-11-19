@@ -3,7 +3,7 @@ An app that is currently in development
 
 
 ## Developer
- @TheiPhoneDev_
+(https://twitter.com/TheiPhoneDev_)["@TheiPhoneDev_"]
 
 ## Requirements
 - requires iOS 15 or later.
